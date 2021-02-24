@@ -3,7 +3,7 @@
 
 This is an implementation of binarized neural networks using Tensorflow. Based on https://arxiv.org/abs/1602.02830
 
-Final Project for Neural Network course 2018-2019, Università La Sapienza Roma
+Final Project for [Neural Network course](http://www.uncini.com/dida/NN/index.html) 2018-2019, Università La Sapienza Roma
 
 <a href="https://www.dis.uniroma1.it/"><img src="http://www.dis.uniroma1.it/sites/default/files/marchio%20logo%20eng%20jpg.jpg" width="400"></a>
 
