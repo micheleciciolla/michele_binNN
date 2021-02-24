@@ -7,10 +7,10 @@ Final Project for [Neural Network course](http://www.uncini.com/dida/NN/index.ht
 
 <a href="https://www.dis.uniroma1.it/"><img src="http://www.dis.uniroma1.it/sites/default/files/marchio%20logo%20eng%20jpg.jpg" width="400"></a>
 
-## Project status
-```bash
-Completed
-```
+
+## Project Status
+Completed <a href="https://github.com/micheleciciolla/vehicles-platooning"><img src="https://www.flaticon.com/svg/static/icons/svg/214/214353.svg" width="30"></a>
+
 
 ## Starting the training
 
